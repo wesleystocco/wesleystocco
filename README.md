@@ -1,9 +1,8 @@
-
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38B2AC&center=true&vCenter=true&width=520&lines=Construindo+interfaces+SaaS+modernas;Integrando+Agentes+de+IA+%26+LLMs;Next.js+%7C+TypeScript+%7C+TailwindCSS;Transformando+l%C3%B3gica+em+experi%C3%AAncia" alt="Typing SVG" />
-
-  <br><br>
+  <a href="https://github.com/wesleystocco">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=38B2AC&center=true&vCenter=true&width=400&lines=Made+in+Heaven" alt="Typing SVG" />
+  </a>
+</div>
 
   <a href="https://www.linkedin.com/in/wesley-stocco-0929371b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
