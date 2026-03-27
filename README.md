@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=38B2AC&center=true&vCenter=true&width=400&lines=Made+in+Heaven" alt="Typing SVG" />
   </a>
 </div>
+<br><br>
 
   <a href="https://www.linkedin.com/in/wesley-stocco-0929371b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
