@@ -1,8 +1,3 @@
-<div align="center">
-
-![header](https://github.com/wesleystocco/wesleystocco/blob/main/Programador%20de%20papel%20de%20parede.jfif?raw=true)
-
-</div>
 
 <div align="center">
 
