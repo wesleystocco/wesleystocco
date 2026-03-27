@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/S9XQ9Qv.gif" alt="Banner Futurista/SaaS" width="100%" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/90/9a/9a/909a9a5f4c1e4c4d5d4d5e5e5e5e5e5e.jpg" alt="Banner Futurista" width="100%" style="border-radius: 10px;" />
 
   <br><br>
 
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/wesleystocco">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Wesley+👋;Front-end+%26+Digital+Designer;Entusiasta+em+IA+%26+SaaS" alt="Typing SVG" />
   </a>
   
@@ -41,7 +41,7 @@
       </td>
       <td width="50%" valign="middle">
         <div align="center">
-          <img src="https://api.iconify.design/material-symbols:person-search-outline.svg?color=38B2AC" alt="Search Icon" width="140" />
+          <img src="https://i.pinimg.com/originals/8a/0c/8a/8a0c8a7b3b3b3b3b3b3b3b3b3b3b3b3b.jpg" alt="Wesley Stocco" width="180" style="border-radius: 50%; border: 3px solid #38B2AC;" />
         </div>
       </td>
     </tr>
@@ -65,4 +65,6 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleystocco&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleystocco&layout=compact&theme=dracula&border_radius=10" alt="Linguagens mais usadas" />
+</div>
