@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/9a/9a/909a9a5f4c1e4c4d5d4d5e5e5e5e5e5e.jpg" alt="Banner Futurista" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/wesleystocco/wesleystocco/blob/main/Programador de papel de parede.jfif?raw=true" alt="Banner Futurista" width="100%" style="border-radius: 10px;" />
 
   <br><br>
 
@@ -17,31 +17,20 @@
 <br>
 <hr>
 
-<br>
-
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="60%" valign="top">
         <h3 align="left">⚡ Sobre Mim</h3>
         <ul style="list-style: none; padding-left: 0; text-align: left; font-size: 1.1em; line-height: 1.8;">
-          <li style="margin-bottom: 10px;">
-            <img src="https://api.iconify.design/material-symbols:school-outline.svg?color=white" height="20" style="vertical-align: sub; margin-right: 8px;" alt="Formação" />
-            Cursando o 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b>.
-          </li>
-          <li style="margin-bottom: 10px;">
-            <img src="https://api.iconify.design/material-symbols:code-rounded.svg?color=white" height="20" style="vertical-align: sub; margin-right: 8px;" alt="Código" />
-            Focado em ecossistemas modernos: <b>React, Next.js, Astro e TailwindCSS</b>.
-          </li>
-          <li style="margin-bottom: 10px;">
-            <img src="https://api.iconify.design/material-symbols:smart-toy-outline.svg?color=white" height="20" style="vertical-align: sub; margin-right: 8px;" alt="IA" />
-            Construindo SaaS e integrando <b>Agentes de IA e LLMs</b> para automação.
-          </li>
+          <li>🚀 Cursando 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+          <li>💻 Especialista em <b>React, Next.js, Astro e TailwindCSS</b>.</li>
+          <li>🤖 Focado em <b>SaaS</b> e integração de <b>Agentes de IA</b>.</li>
         </ul>
       </td>
-      <td width="50%" valign="middle">
+      <td width="40%" valign="middle">
         <div align="center">
-          <img src="https://i.pinimg.com/originals/8a/0c/8a/8a0c8a7b3b3b3b3b3b3b3b3b3b3b3b3b.jpg" alt="Wesley Stocco" width="180" style="border-radius: 50%; border: 3px solid #38B2AC;" />
+          <img src="https://github.com/wesleystocco/wesleystocco/blob/main/fotoperfil (1).jfif?raw=true" alt="Wesley Stocco" width="150" style="border-radius: 50%; border: 3px solid #38B2AC;" />
         </div>
       </td>
     </tr>
@@ -65,6 +54,6 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleystocco&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleystocco&layout=compact&theme=dracula&border_radius=10" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleystocco&show_icons=true&theme=dracula&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleystocco&layout=compact&theme=dracula&border_radius=10" alt="Langs" />
 </div>
