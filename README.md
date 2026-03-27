@@ -63,18 +63,6 @@
 
 <h3 align="center">📊 Atividade de Desenvolvimento</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wesleystocco&theme=dark&hide_border=false&border=38B2AC&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&border_radius=10" height="170" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleystocco&show_icons=true&theme=dark&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF&bg_color=0D1117&border_color=38B2AC&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleystocco&layout=compact&theme=dark&title_color=38B2AC&text_color=FFFFFF&bg_color=0D1117&border_color=38B2AC&border_radius=10" height="165" alt="Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
